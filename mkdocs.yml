@@ -1,0 +1,9 @@
+site_name: Spiceworks IFPE
+nav:
+    - Configuração: 
+      - Home: index.md
+    - Utilização:
+      - About: about.md 
+    - Inventário:
+      - Teste: teste.md
+theme: readthedocs
